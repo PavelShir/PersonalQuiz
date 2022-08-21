@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  PersonalQuiz
-//
-//  Created by brubru on 15.08.2022.
-//
+
 
 import UIKit
 
@@ -41,7 +36,6 @@ final class QuestionsViewController: UIViewController {
     }
     
     
-
     override func viewDidLoad() {
         super.viewDidLoad()
         updateUI()
